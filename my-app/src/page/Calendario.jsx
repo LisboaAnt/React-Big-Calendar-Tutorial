@@ -80,7 +80,7 @@
 
 
         return (
-            <div className='tela'>
+            <div className='tela ' >
                 <div className='toolbar p-4' style={{maxHeight:'100vh', overflowY:'auto'}}>
                     <Adicionar onAdicionar= {handleAdicionar}/>
 

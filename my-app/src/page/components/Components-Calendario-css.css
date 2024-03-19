@@ -6,6 +6,7 @@
 .calendario{
     height: 100vh;
     width: 80%;
+    overflow: auto;
 }
 .toolbar{
     height: 100vh;
