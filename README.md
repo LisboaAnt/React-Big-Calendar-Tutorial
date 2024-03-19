@@ -4,8 +4,8 @@ Unlock the full potential of React Big Calendar with our concise YouTube tutoria
  - Link Youtube: [https://www.youtube.com/playlist?list=PLr7kJYXyKg0Z4e_mdEUOchEePCunPMA_n](https://www.youtube.com/playlist?list=PLr7kJYXyKg0Z4e_mdEUOchEePCunPMA_n)
 
 # Runs the app in the development mode.
- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
- Link online: [https://LisboaAnt.github.io/React-Big-Calendar-Tutorial](https://LisboaAnt.github.io/React-Big-Calendar-Tutorial)
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Link online: [https://LisboaAnt.github.io/React-Big-Calendar-Tutorial](https://LisboaAnt.github.io/React-Big-Calendar-Tutorial)
 
 # Description
 
