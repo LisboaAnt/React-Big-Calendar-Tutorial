@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Big-Calendar-Tutorial/static/css/main.884a0e8e.css",
-    "main.js": "/React-Big-Calendar-Tutorial/static/js/main.658d790b.js",
+    "main.js": "/React-Big-Calendar-Tutorial/static/js/main.cb0f928d.js",
     "static/media/bootstrap-icons.woff?": "/React-Big-Calendar-Tutorial/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/React-Big-Calendar-Tutorial/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/React-Big-Calendar-Tutorial/index.html",
     "main.884a0e8e.css.map": "/React-Big-Calendar-Tutorial/static/css/main.884a0e8e.css.map",
-    "main.658d790b.js.map": "/React-Big-Calendar-Tutorial/static/js/main.658d790b.js.map"
+    "main.cb0f928d.js.map": "/React-Big-Calendar-Tutorial/static/js/main.cb0f928d.js.map"
   },
   "entrypoints": [
     "static/css/main.884a0e8e.css",
-    "static/js/main.658d790b.js"
+    "static/js/main.cb0f928d.js"
   ]
 }
